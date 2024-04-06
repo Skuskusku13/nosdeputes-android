@@ -9,7 +9,11 @@ Notament les votes  des députés sur différents projets de loi.
 * [Scrutins et votes des parlementaires](https://github.com/regardscitoyens/nosdeputes.fr/blob/master/doc/api.md#scrutins-et-votes-des-parlementaires) 
 
 
-## Utilisation
+## Utilisation et Installation
+
+Vous pouvez 
+[télécharger l'application en apk juste ici.](https://github.com/Skuskusku13/nosdeputes-android/raw/main/app/build/outputs/apk/debug/app-debug.apk)
+
 
 
 ### Recherche
