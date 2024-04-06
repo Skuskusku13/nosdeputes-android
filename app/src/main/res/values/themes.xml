@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NosDeputes" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="colorPrimary">@color/vert_clair</item>
+    </style>
+
+    <style name="Theme.NosDeputes" parent="Base.Theme.NosDeputes" />
+</resources>
